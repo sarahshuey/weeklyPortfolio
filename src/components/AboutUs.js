@@ -5,14 +5,7 @@ import { Link } from 'react-router-dom';
 export default class About extends Component {
   render() {
 
-let otherStyle = {
-  "backgroundColor": "#bce9f4",
-      "backgroundSize": "cover",
-      "height": "50%",
-      "padding": "100px",
-      "fontFamily": "Arizonia",
-      "textAlign":"center"
-    }
+
     let aboutStyle = {
       "backgroundColor": "#bce9f4",
       "backgroundSize": "cover",
