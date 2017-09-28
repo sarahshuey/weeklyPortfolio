@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import '../styles/App.css';
-import Link from 'Link';
+import { Link } from 'react-router-dom';
 
 export default class About extends Component {
   render() {
@@ -26,9 +26,6 @@ let otherStyle = {
       <div className="app-body about offset col-lg-10 col-lg-offset-1">
         <section className="row" style={aboutStyle}>
             <hr/>
-            <p style={{color:"#0d0056", textAlign:"center"}} className="primary-text">
-              Hello, my name is Sarah Shuey and I am a junior developer learning React!
-            </p>
             <p style={{color:"#0d0056", textAlign:"center"}} className="primary-text">
               Welcome to our Store, we are a source for all of your camping needs! We look forward to your business and feel free to <Link to="/ContactUS">contact us</Link>with any questions you may have
             </p>

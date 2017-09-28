@@ -23,7 +23,7 @@ let otherStyle = {
     }
     return (
       <div className="app-body about offset col-lg-10 col-lg-offset-1">
-        <section className="row" style={aboutStyle}>
+        <section className="row" style={contactStyle}>
             <hr/>
             <h2 style={{color:"#0d0056", textAlign:"center"}} className="primary-text">
              Camping needs
