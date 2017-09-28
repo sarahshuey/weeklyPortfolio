@@ -25,13 +25,15 @@ let otherStyle = {
       <div className="app-body about offset col-lg-10 col-lg-offset-1">
         <section className="row" style={aboutStyle}>
             <hr/>
+            <h2 style={{color:"#0d0056", textAlign:"center"}} className="primary-text">
+             Camping needs
+             </h2>
             <p style={{color:"#0d0056", textAlign:"center"}} className="primary-text">
-              Hello, my name is Sarah Shuey and I am a junior developer learning React!
+              Email: project@gmail.com
             </p>
             <p style={{color:"#0d0056", textAlign:"center"}} className="primary-text">
-              I have lived in Austin for 4 years and have a dog named Ginger. My hobbies include shopping, cleaning, organizing, and being outdoors.
+              Phone: 512-222-2222
             </p>
-            <p style={{color:"#0d0056", textAlign:"center"}} className="primary-text">I am from Dallas Tx, I have 2 brothers and 1 sister. I am the youngest member of my family and also the shortest. </p>
         </section>
       </div>
     );
