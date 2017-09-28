@@ -3,6 +3,7 @@ import image from '../images/chair.jpg'
 import image2 from '../images/sleepingbag.jpg'
 import image3 from '../images/tent.jpg'
 import { Link } from 'react-router-dom';
+// import data from '../data/campingData'
 
 
 export default class Portfolio extends Component {
