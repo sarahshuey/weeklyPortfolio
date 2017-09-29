@@ -7,10 +7,10 @@ Simple React eCommerce page
 
 # Need
 
-## Splash Page
-## About Us
-## Contact Us
-## Camping Needs- link and 3 items with pictures prices and descriptions
-## Hiking Gear- link and 3 items with pictures prices and descriptions
-## Fishing Tackle- link and 3 items with pictures prices and descriptions
-## Data folder to house the above information
+- Splash Page
+- About Us
+- Contact Us
+- Camping Needs- link and 3 items with pictures prices and descriptions
+- Hiking Gear- link and 3 items with pictures prices and descriptions
+- Fishing Tackle- link and 3 items with pictures prices and descriptions
+- Data folder to house the above information

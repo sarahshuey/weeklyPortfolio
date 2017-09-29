@@ -1,9 +1,11 @@
-<p> Bait, you wont catch a fish without this! </p>
-<p> Price: $9.99</p>
 
-<p> Tackle Box, place to store your bait </p>
-<p> Price: $39.99</p>
+export default function() {
+  return [
 
-
-<p> Fishing Rod, a place for the bait and fish to come together </p>
-<p> Price: $99.99</p>
+    {"description":"Bait, you wont catch a fish without this!",
+     "price":"Price: $9.99"}
+    {"description":"Tackle Box, place to store your bait",
+     "price":"Price: $39.99"}
+    {"description":"Fishing Rod, a place for the bait and fish to come together",
+     "price":"Price: $99.99"}
+  ]}
